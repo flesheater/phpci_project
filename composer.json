@@ -1,0 +1,10 @@
+{
+    "name": "nikolay.borisov/phpci_project",
+    "authors": [
+        {
+            "name": "nikolay.borisov",
+            "email": "nikolay.borisov@aperto.de"
+        }
+    ],
+    "require": {}
+}
