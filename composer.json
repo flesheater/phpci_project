@@ -6,5 +6,7 @@
             "email": "nikolay.borisov@aperto.de"
         }
     ],
-    "require": {}
+    "require": {
+        "consolidation/robo": "^1.4"
+    }
 }
