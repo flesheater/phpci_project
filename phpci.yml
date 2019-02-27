@@ -1,0 +1,4 @@
+setup:
+    shell:
+      - "cd /var/www/html/test && composer install"
+      - "cd /var/www/html/test && ./vendor/bin/robo setup"
